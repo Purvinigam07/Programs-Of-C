@@ -1,3 +1,4 @@
+//Display a Ascii value of a given character.
 #include <stdio.h>
 
 int main() {
@@ -6,3 +7,4 @@ int main() {
     printf("ASCII - \"%d\"", ch);
     return 0;
 }
+
